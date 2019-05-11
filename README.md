@@ -32,7 +32,7 @@ with values (data). And when we get new data via an XMLHttpRequest, or
 XHR, we generally are outputting that new data within an already defined
 structure.
 
-![jon stewart](http://i.giphy.com/qzIYGsxePPyP6.gif)
+<!-- ![jon stewart](http://i.giphy.com/qzIYGsxePPyP6.gif) -->
 
 Yeah. Let's look at it in action.
 
